@@ -9,9 +9,9 @@ public class SingletonPattern {
         secondLogger.log("User logged in");
 
         if (firstLogger == secondLogger) {
-            System.out.println("Only one Logger instance exists.");
+            System.out.println("Only one Logger instance");
         } else {
-            System.out.println("Multiple Logger instances exist.");
+            System.out.println("Multiple Logger instances");
         }
     }
 }
