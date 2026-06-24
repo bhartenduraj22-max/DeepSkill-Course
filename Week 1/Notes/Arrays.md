@@ -1,1 +1,2 @@
-
+# Arrays
+An array can store a collection of similar types of data in a single variable. The data items are stored in contiguous locations in the memory and are accessed using an index. Visiting each element in an array is called traversal and finding a particular element is called searching. Arrays allow us to access our data quickly and they are easy to implement. Arrays can be used when we know the maximum size of our data at the time of declaration.
